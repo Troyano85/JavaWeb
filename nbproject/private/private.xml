@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ferch/OneDrive/Documentos/NetBeansProjects/MundoAnimal/src/java/controlador/SvEliminar.java</file>
+            <file>file:/C:/Users/ferch/OneDrive/Documentos/NetBeansProjects/MundoAnimal/src/java/controlador/SvEditar.java</file>
+            <file>file:/C:/Users/ferch/OneDrive/Documentos/NetBeansProjects/MundoAnimal/web/css/principal.css</file>
+            <file>file:/C:/Users/ferch/OneDrive/Documentos/NetBeansProjects/MundoAnimal/web/mostrarClientes.jsp</file>
+            <file>file:/C:/Users/ferch/OneDrive/Documentos/NetBeansProjects/MundoAnimal/web/css/estilos.css</file>
+            <file>file:/C:/Users/ferch/OneDrive/Documentos/NetBeansProjects/MundoAnimal/src/java/controlador/SvClientes.java</file>
+            <file>file:/C:/Users/ferch/OneDrive/Documentos/NetBeansProjects/MundoAnimal/src/java/logica/Cliente.java</file>
+            <file>file:/C:/Users/ferch/OneDrive/Documentos/NetBeansProjects/MundoAnimal/src/java/persistencia/ControladoraPersistencia.java</file>
+            <file>file:/C:/Users/ferch/OneDrive/Documentos/NetBeansProjects/MundoAnimal/src/java/logica/Controladora.java</file>
+            <file>file:/C:/Users/ferch/OneDrive/Documentos/NetBeansProjects/MundoAnimal/web/editar.jsp</file>
+            <file>file:/C:/Users/ferch/OneDrive/Documentos/NetBeansProjects/MundoAnimal/web/index.jsp</file>
+            <file>file:/C:/Users/ferch/OneDrive/Documentos/NetBeansProjects/MundoAnimal/web/principal.jsp</file>
+            <file>file:/C:/Users/ferch/OneDrive/Documentos/NetBeansProjects/MundoAnimal/src/java/persistencia/ClienteJpaController.java</file>
+            <file>file:/C:/Users/ferch/OneDrive/Documentos/NetBeansProjects/MundoAnimal/src/java/controlador/SvValidar.java</file>
+            <file>file:/C:/Users/ferch/OneDrive/Documentos/NetBeansProjects/MundoAnimal/src/conf/persistence.xml</file>
+        </group>
+    </open-files>
+</project-private>
